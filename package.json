@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Aplicação que facilita o processo de criação de vídeos usando o Deforum.",
   "main": "app.js",
+  "engines": {
+    "node": ">= 16.0.0"
+  },
   "scripts": {
     "dev": "nodemon app.js"
   },
